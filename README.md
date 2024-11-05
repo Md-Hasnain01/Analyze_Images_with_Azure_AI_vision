@@ -31,3 +31,7 @@ Detected Image
 Street Background Removing
 
 ![street background remove](https://github.com/user-attachments/assets/91d94f91-648e-4f96-b3a5-da9ec66ab94f)
+
+Forge Matting
+
+![forge matting](https://github.com/user-attachments/assets/61893d89-95b9-4339-973a-1f037ffdef77)
