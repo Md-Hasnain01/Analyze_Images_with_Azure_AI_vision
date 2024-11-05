@@ -20,3 +20,5 @@ Before you begin, ensure you have met the following requirements:
 
 ## Example Output
 
+Original Image
+![street](https://github.com/user-attachments/assets/c688a57c-0c19-4ee9-aa25-3df94f0642a5)
