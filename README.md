@@ -21,4 +21,9 @@ Before you begin, ensure you have met the following requirements:
 ## Example Output
 
 Original Image
+
 ![street](https://github.com/user-attachments/assets/c688a57c-0c19-4ee9-aa25-3df94f0642a5)
+
+Detected Image
+
+![street detected](https://github.com/user-attachments/assets/2d994c00-c6dc-43dc-8eee-eb67ed25564a)
