@@ -17,3 +17,6 @@ Before you begin, ensure you have met the following requirements:
 - Python 3.x installed on your machine.
 - An Azure account with access to the Computer Vision API.
 - Required Python packages installed (see Installation section).
+
+## Example Output
+
