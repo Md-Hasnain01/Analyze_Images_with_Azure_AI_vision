@@ -35,3 +35,12 @@ Street Background Removing
 Forge Matting
 
 ![forge matting](https://github.com/user-attachments/assets/61893d89-95b9-4339-973a-1f037ffdef77)
+
+## Setup
+
+## Create a `.env`
+
+Set up your environment variables. Create a `.env` file in the root directory of the project and add your Azure credentials:
+
+AI_SERVICE_ENDPOINT= `<your_azure_endpoint>`
+AI_SERVICE_KEY= `<your_azure_key>`
