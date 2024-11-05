@@ -48,6 +48,6 @@ AI_SERVICE_KEY= `<your_azure_key>`
 
 ## Acknowledgments
 
-Microsoft Azure for providing the Computer Vision API.
-Pillow for image processing.
-Matplotlib for visualizing the results.
+- Microsoft Azure for providing the Computer Vision API.
+- Pillow for image processing.
+- Matplotlib for visualizing the results.
