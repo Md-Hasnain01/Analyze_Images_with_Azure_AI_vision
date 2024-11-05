@@ -43,4 +43,11 @@ Forge Matting
 Set up your environment variables. Create a `.env` file in the root directory of the project and add your Azure credentials:
 
 AI_SERVICE_ENDPOINT= `<your_azure_endpoint>`
+
 AI_SERVICE_KEY= `<your_azure_key>`
+
+## Acknowledgments
+
+Microsoft Azure for providing the Computer Vision API.
+Pillow for image processing.
+Matplotlib for visualizing the results.
