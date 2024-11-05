@@ -27,3 +27,7 @@ Original Image
 Detected Image
 
 ![street detected](https://github.com/user-attachments/assets/2d994c00-c6dc-43dc-8eee-eb67ed25564a)
+
+Street Background Removing
+
+![street background remove](https://github.com/user-attachments/assets/91d94f91-648e-4f96-b3a5-da9ec66ab94f)
